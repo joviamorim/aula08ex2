@@ -10,6 +10,7 @@
 		out.println(listar.getString("nome"));
 		out.println(listar.getString("telefone"));
 		out.println(listar.getString("email")+"<p>");
+		out.println(listar.getString("datanasc")+"<p>");
 		reg++;
   }					
 %>
